@@ -21,7 +21,7 @@
     "component": "ProductList",
     "allowed": ["product-list"]
   },
-  "minicart-checkout-button": {
+  "minicart-checkout-button-custom": {
     "component": "CheckoutButton",
     "content": {
       "title": "store/finish-shopping-button-label",
