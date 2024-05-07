@@ -2,7 +2,7 @@
   "vendor": "estilospe",
   "name": "minicart",
   "title": "Mini Cart",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "builders": {
     "messages": "1.x",
     "store": "0.x",
